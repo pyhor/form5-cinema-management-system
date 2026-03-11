@@ -44,7 +44,7 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 **Contribution:** 100% Solo Project. I was responsible for the full-stack development, including database design (ERD), backend logic (PHP), and frontend UI/UX (HTML/CSS).
 
 
-### 📝 Language & Localisation
+### <u>📝 Language & Localisation</u>
 
 As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
