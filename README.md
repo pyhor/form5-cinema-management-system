@@ -102,7 +102,7 @@ The system includes the following features:
   
 
 
-### 🛠 Technologies Used
+### <ins>🛠 Technologies Used</ins>
 
 <p align="left">
   <a href="https://skillicons.dev">
