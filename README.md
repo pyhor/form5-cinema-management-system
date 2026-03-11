@@ -8,6 +8,7 @@
 
 **Stack:** PHP, MySQL (WAMP/XAMPP)
 
+<p align="center">
 ![Archive](https://img.shields.io/badge/Status-Public%20Archive-blue)
 ![Year](https://img.shields.io/badge/Year-2020-green)
 ![Type](https://img.shields.io/badge/Type-School%20Project-orange)
@@ -20,6 +21,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+</p>
 
 This repository contains my **Form 5 Computer Science Portfolio (2020)** project.
 
@@ -42,19 +44,19 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 ## 📝 Language & Localisation
 
-As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in *Bahasa Melayu*.
+As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
 
 ## 👤 My Role: Sole Developer
 As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
 
-*System Analysis:* Planning the cinema booking workflow.
+**System Analysis:** Planning the cinema booking workflow.
 
-*Database Architecture:* Designing relational tables in MySQL.
+**Database Architecture:** Designing relational tables in MySQL.
 
-*Backend Development:* Writing PHP scripts for data processing.
+**Backend Development:** Writing PHP scripts for data processing.
 
-*Frontend Design:* Creating the user and admin interfaces.
+**Frontend Design:** Creating the user and admin interfaces.
 
 ---
 
