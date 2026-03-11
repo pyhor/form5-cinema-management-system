@@ -50,7 +50,7 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
 
-### 👤 My Role: Sole Developer
+### <ins>👤 My Role: Sole Developer</ins>
 
 As this was an individual folio project, I managed the entire **Software Development Life Cycle (SDLC)**, handling everything from architectural design to deployment:
 
