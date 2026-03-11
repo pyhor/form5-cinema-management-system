@@ -94,8 +94,7 @@ The system includes the following features:
 - 🎟 Ticket booking
 - 👤 Customer information handling
 - 📋 Basic data management
-
----
+  
 
 ## 🛠 Technologies Used
 
@@ -111,7 +110,6 @@ The system includes the following features:
 - **Environment:** XAMPP on Windows
 - **Project Type:** 100% Solo Development
 
----
 
 ## 📂 Project Structure
 
