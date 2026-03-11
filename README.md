@@ -9,18 +9,20 @@
 **Stack:** PHP, MySQL (WAMP/XAMPP)
 
 <p align="center">
-![Archive](https://img.shields.io/badge/Status-Public%20Archive-blue)
-![Year](https://img.shields.io/badge/Year-2020-green)
-![Type](https://img.shields.io/badge/Type-School%20Project-orange)
-![Language](https://img.shields.io/badge/Language-Bahasa%20Melayu-red)
-![Project Type](https://img.shields.io/badge/Project-Solo%20Development-blueviolet)
+  <img src="https://img.shields.io/badge/Status-Public%20Archive-blue" />
+  <img src="https://img.shields.io/badge/Year-2020-green" />
+  <img src="https://img.shields.io/badge/Type-School%20Project-orange" />
+  <img src="https://img.shields.io/badge/Language-Bahasa%20Melayu-red" />
+  <img src="https://img.shields.io/badge/Project-Solo%20Development-blueviolet" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 This repository contains my **Form 5 Computer Science Portfolio (2020)** project.
