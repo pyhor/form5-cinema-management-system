@@ -78,13 +78,13 @@ cinema-management-system
 
 Here are some screenshots showing different parts of the system:
 
-1. **File Import Program (Admin Feature)** – This screenshot shows the admin interface for importing movie or booking data into the system.  
+1. **File Import Program (Admin Feature)** – This interface allows administrators to import movie or booking data directly into the database via a script.
 ![File Import Program](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/File%20Import%20Program-Script.png)
 
-2. **Customer Login Form** – This screenshot displays the login interface where customers can access their accounts to book tickets.  
+2. **Customer Login Form** – A secure login interface for existing customers to access the booking system.
 ![Customer Login Form](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/Customer%20Login%20Form.png)
 
-3. **Customer Registration Form** – This screenshot shows the registration form for new customers to create an account.  
+3. **Customer Registration Form** – The registration gateway for new users to create an account and join the cinema membership.
 ![Customer Registration Form](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/Customer%20Registration%20Form.png)
 
 ---
@@ -113,9 +113,3 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 GitHub: https://github.com/pyhor  
 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
-
-
-
-https://github.com/pyhor/form5-cinema-management-system/blob/main/demo-images/Customer%20Login%20Form.png 
-https://github.com/pyhor/form5-cinema-management-system/blob/main/demo-images/Customer%20Registration%20Form.png 
-https://github.com/pyhor/form5-cinema-management-system/blob/main/demo-images/File%20Import%20Program-Script.png
