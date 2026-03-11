@@ -1,4 +1,7 @@
-# 🎬 Cinema Management System
+# 🎬 Cinema Management System (Legacy Archive)
+
+**[!IMPORTANT]**
+Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer Folio. It is preserved to document my early technical foundations in full-stack development and is no longer under active maintenance.
 
 ![Project](https://img.shields.io/badge/Project-Computer%20Science%20Folio-blue)
 ![Year](https://img.shields.io/badge/Year-2020-green)
