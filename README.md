@@ -120,6 +120,19 @@ Through the development of this system, I achieved the following milestones in m
 
 This project was completed as part of the **Computer Science (Sains Komputer)** subject during **Form 5**, which is the final year of Malaysian secondary school before the **SPM examination**.
 
+**Level:** Form 5 (Secondary School / SPM)
+
+**Curriculum:** Sains Komputer (Computer Science)
+
+**Language:** Bahasa Melayu (The system, database labels, and documentation are in Malay as per the national curriculum requirements).
+
+---
+
+# 📝 Language & Localisation
+
+> [!NOTE]
+> As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in Bahasa Melayu.
+
 ---
 
 # 👩‍💻 Author
