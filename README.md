@@ -154,8 +154,8 @@ To run this project locally, you will need a local server environment like **XAM
 ---
 
 # 📜 Archive & Legacy Disclaimer
-**[!IMPORTANT]**
-Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
+> **[!IMPORTANT]**
+> Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
 
 # 💡 Project Context
 Academic Year: 2020 (Pre-University / SPM)
