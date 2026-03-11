@@ -62,30 +62,29 @@ This project was developed using:
 
 # 📂 Project Structure
 
-cinema-management-system  
-│  
-├── index.html  
-├── movies.html  
-├── booking.html  
-├── css/  
-├── js/  
-├── assets/  
-└── demo-images/  
+form5-cinema-management-system/
+│
+├── PHP Coding/               # Folder containing core PHP, HTML, and JS files
+├── demo-images/              # Project screenshots for documentation
+├── DOKUMENTASI HOR PEI Y...  # Project Documentation (Malay)
+├── MANUAL PENGGUNA SIST...   # User Manual (Malay)
+├── LICENSE                   # Project License
+└── README.md                 # Project Overview & Guide
 
 ---
 
 # 📷 Screenshots
 
-Here are some screenshots showing different parts of the system:
+Here are some screenshots showing key interfaces from the completed system:
 
-1. **File Import Program (Admin Feature)** – This interface allows administrators to import movie or booking data directly into the database via a script.
-![File Import Program](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/File%20Import%20Program-Script.png)
+1. **Customer Registration Form** – The standard interface for new users to register their details into the MySQL database.
+![Customer Registration Form](demo-images/Customer%20Registration%20Form.png)
 
-2. **Customer Login Form** – A secure login interface for existing customers to access the booking system.
-![Customer Login Form](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/Customer%20Login%20Form.png)
+2. **Customer Login Form** – The secure gateway for existing customers to access their accounts and start booking.
+![Customer Login Form](demo-images/Customer%20Login%20Form.png)
 
-3. **Customer Registration Form** – The registration gateway for new users to create an account and join the cinema membership.
-![Customer Registration Form](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/Customer%20Registration%20Form.png)
+3. **File Import Program (Admin Feature)** – This screenshot shows the administrative backend component used to import bulk movie or schedule data into the system via a script.
+![File Import Program](demo-images/File%20Import%20Program-Script.png)
 
 ---
 
@@ -114,4 +113,29 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 GitHub: https://github.com/pyhor  
 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
-![Customer Login Form](demo-images/Customer%20Login%20Form.png)
+---
+
+---
+
+# 🚀 How to Run (Local Setup)
+
+To run this project locally, you will need a local server environment like **XAMPP**.
+
+1. **Move Project Files:** Copy the contents of the `PHP Coding/` folder into your XAMPP `htdocs` directory (e.g., `C:\xampp\htdocs\cinema-system\`).
+   
+2. **Database Setup:**
+   - Start **Apache** and **MySQL** in the XAMPP Control Panel.
+   - Go to `localhost/phpmyadmin` and create a new database.
+   - Import the provided SQL file (if available) or refer to the documentation for table structures.
+
+3. **Configuration:**
+   Update the database connection settings in your PHP files (usually `db_connection.php` or similar) to match your local MySQL credentials.
+
+4. **Access the App:**
+   Open your browser and navigate to `http://localhost/cinema-system/index.html`.
+
+> [!TIP]
+> For a detailed step-by-step guide, database schema, and system architecture, please refer to the [**DOKUMENTASI HOR PEI YU.pdf**](https://github.com/pyhor/form5-cinema-management-system/blob/main/DOKUMENTASI%20HOR%20PEI%20YU.pdf) file included in this repository.
+
+---
+
