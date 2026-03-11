@@ -200,8 +200,8 @@ Follow these steps to deploy the system locally:
 | **1** | **Move Files** | Copy the contents of the `PHP Coding/` folder into `C:\xampp\htdocs\cinema-system\` |
 | **2** | **Start XAMPP** | Open XAMPP Control Panel and start **Apache** and **MySQL**. |
 | **3** | **Database** | Go to `localhost/phpmyadmin`, create a new database, and import the SQL file. |
-| **4** | **Config** | Update database credentials in the connection file (e.g., `db_connection.php`). |
-| **5** | **Launch** | Navigate to `http://localhost/cinema-system/index.html` in your browser. |
+| **4** | **Config** | Update database credentials in the connection file (e.g., `capaian.php`). |
+| **5** | **Launch** | Navigate to `http://localhost/cinema-system/index.php` in your browser. |
 
 > [!TIP]
 > If you encounter database connection errors, ensure your MySQL port (default `3306`) is not being used by another application 
