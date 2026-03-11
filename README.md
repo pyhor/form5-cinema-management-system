@@ -62,29 +62,29 @@ This project was developed using:
 
 # 📂 Project Structure
 
-cinema-management-system
-│
-├── index.html
-├── movies.html
-├── booking.html
-├── css/
-├── js/
-└── assets/
-
+cinema-management-system  
+│  
+├── index.html  
+├── movies.html  
+├── booking.html  
+├── css/  
+├── js/  
+└── assets/  
 
 ---
 
 # 📷 Screenshots
 
-You can add screenshots of your project here.
+Here are some screenshots showing different parts of the system:
 
-Example:
+1. **File Import Program (Admin Feature)** – This screenshot shows the admin interface for importing movie or booking data into the system.  
+![File Import Program](screenshots/File Import Program-Script.png)
 
+2. **Customer Login Form** – This screenshot displays the login interface where customers can access their accounts to book tickets.  
+![Customer Login Form](screenshots/Customer Login Form.png)
 
-
-Then display them like this:
-
-![Homepage](screenshots/homepage.png)
+3. **Customer Registration Form** – This screenshot shows the registration form for new customers to create an account.  
+![Customer Registration Form](screenshots/Customer Registration Form.png)
 
 ---
 
@@ -108,7 +108,7 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 # 👩‍💻 Author
 
-**Pei Yu Hor**
+**Pei Yu Hor**  
 
 GitHub: https://github.com/pyhor  
 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
