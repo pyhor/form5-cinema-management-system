@@ -88,7 +88,7 @@ This project was created to apply the **programming and system design concepts**
 
 ---
 
-## <ins>🎬 System Features</ins>
+## 🎬 System Features
 
 The system includes the following features:
 
