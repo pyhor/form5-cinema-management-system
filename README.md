@@ -151,7 +151,7 @@ Academic Year: 2020 (Pre-University / SPM)
 
 Purpose: Educational submission for the Malaysian secondary school curriculum.
 
-Current Tech Stack: I have since transitioned to Modern Frontend Development (React, TypeScript, Next.js). This project represents my early experience with the LAMP stack (PHP/MySQL).
+Current Tech Stack: I have since transitioned to Modern Frontend Development (React, TypeScript, Next.js). This project represents my early experience with the WAMP stack (PHP/MySQL).
 
 # ⚖️ License
 This project is licensed under the MIT License. It is provided "as-is" for educational and reference purposes only. No further updates or maintenance will be provided.
