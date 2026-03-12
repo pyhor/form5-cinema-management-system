@@ -66,7 +66,7 @@ As this was an individual folio project, I managed the entire **Software Develop
 
 ## 📖 Project Overview
 
-This repository serves as a **Classic Archive** of my Form 5 Computer Science portfolio (2020). It features a full-stack **Cinema Management System** developed to handle the core logic of a service-based platform, including movie scheduling, real-time seat inventory management, and customer ticketing.
+This repository preserves my **Form 5 Computer Science portfolio project (2020)**. It is a full-stack **Cinema Management System** designed to manage movie screenings, seat availability, and customer ticket bookings.
 
 > [!NOTE]  
 > This project represents my **technical foundation**, documenting my early mastery of **relational database design (RDBMS)** and **CRUD architecture** using PHP and MySQL.
