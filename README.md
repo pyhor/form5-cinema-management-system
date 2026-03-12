@@ -206,7 +206,7 @@ Follow these steps to deploy the system locally:
 
 > [!TIP]
 > If you encounter database connection errors, ensure your MySQL port (default `3306`) is not being used by another application 
-|
+
 
 ---
 
